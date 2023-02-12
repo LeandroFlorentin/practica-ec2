@@ -6,5 +6,5 @@ app.get('/', (req, res) => {
   res.send("Hola gente")
 })
 
-app.listen(3000)
-console.log("Server on port 3000")
+app.listen(22)
+console.log("Server on port 22")
